@@ -1,1 +1,1 @@
-# SideChannalAttack_PrimeProbe
+# SideChannelAttack_PrimeProbe
